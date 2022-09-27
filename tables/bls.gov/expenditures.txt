@@ -1,0 +1,35 @@
+Table : percent expenditures of all consumer units, United States, in 2019
+
+
+Item                                    | percent
+-------------------------------------------------
+Housing                                 | 32.8
+   Shelter                              | 19.3
+      Owned dwellings                   | 10.8
+      Rented dwellings                  |  7.0
+Transportation                          | 17.0
+   Vehicle purchases                    |  7.0
+   Gasoline, other fuels, and motor oil |  3.3
+Food                                    | 13.0
+   at home                              |  7.4
+   away from home                       |  5.6
+Personal insurance and pensions         | 11.4
+   Pensions and Social Security         | 10.5
+Healthcare                              |  8.2
+   Health insurance                     |  5.6
+Entertainment                           |  4.8
+Cash contributions                      |  3.2
+Apparel and services                    |  3.0
+Other expenditures                      |  3.0
+Education                               |  2.3
+Personal care products and services     |  1.2
+----------------------------------------------
+
+Average annual expenditures / average annual expenditures = 76.1 %
+
+
+---
+Author :  U.S. Bureau of Labor
+Title : CONSUMER EXPENDITURES - 2019 
+Licence : public domain
+SOURCE : https://www.bls.gov/news.release/archives/cesan_09092020.pdf
