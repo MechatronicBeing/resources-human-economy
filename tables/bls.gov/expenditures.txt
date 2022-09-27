@@ -1,5 +1,5 @@
 Table : percent expenditures of all consumer units, United States, in 2019
-
+Consumer units include families, single persons living alone or sharing a household with others but who are financially independent, or two or more persons living together who share major expenses.
 
 Item                                    | percent
 -------------------------------------------------
@@ -25,7 +25,7 @@ Education                               |  2.3
 Personal care products and services     |  1.2
 ----------------------------------------------
 
-Average annual expenditures / average annual expenditures = 76.1 %
+Average annual expenditures / Average income before taxes = 76.1 %
 
 
 ---
